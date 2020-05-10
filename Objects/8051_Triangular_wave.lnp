@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\8051_Triangular_wave.obj" 
+TO ".\Objects\8051_Triangular_wave" 
+PRINT(".\Listings\8051_Triangular_wave.m51") RAMSIZE(256) 
